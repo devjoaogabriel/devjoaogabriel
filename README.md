@@ -1,11 +1,23 @@
 ![Header](./github-header-imagev3.png)
 
-### Olá 👋, meu nome é João Gabriel e sou Desenvolvedor Front-End!
+👋 Hello, my name is João Gabriel, I'm a **Front-End Developer**.
 
-> Atualmente venho me especializando nessas linguagens:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</div>
+🌱 I'm always studying **HTML**, **CSS** and **JavaScript**.
+
+✈️ I currently work with **IT Support**.
+
+⛹️ Developing a **large portfolio** to get to know me better...
+
+🎯 Focused on learning **TypeScript** and **NextJS**.
+
+🔭  See a little more about me...
+
+<p align="left">
+  <a href="https://www.instagram.com/o_joaozx/" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/
+  </a>
+  
+  <a href="https://www.linkedin.com/in/joaogabriel0/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
