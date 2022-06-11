@@ -12,10 +12,6 @@
 
 🔭  See a little more about me...
 
-<a href="https://pt-br.facebook.com/FansOfStudioGhibli/" target="_blank">
-  <img src="./assets/icons/facebook_icon.png" alt="Facebook Icone">
-</a>
-
 <p align="left">
   <a href="https://www.instagram.com/o_joaozx/" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/
@@ -25,3 +21,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+
