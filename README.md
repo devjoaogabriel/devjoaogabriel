@@ -13,11 +13,11 @@
 🔭  See a little more about me...
 
 <p align="left">
-  <a href="https://www.instagram.com/o_joaozx/" alt="Instagram">
+  <a href="https://www.instagram.com/o_joaozx/" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/
   </a>
   
-  <a href="https://www.linkedin.com/in/joaogabriel0/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/joaogabriel0/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
