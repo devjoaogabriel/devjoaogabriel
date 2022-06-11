@@ -1,3 +1,5 @@
+![Header](./github-header-imagev3.png)
+
 ### Olá 👋, meu nome é João Gabriel e sou Desenvolvedor Front-End!
 
 > Atualmente venho me especializando nessas linguagens:
