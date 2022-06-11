@@ -1,4 +1,4 @@
-![Header](./github-header-imagev4.png)
+![Header](./github-header-imagev3.png)
 
 ### Olá 👋, meu nome é João Gabriel e sou Desenvolvedor Front-End!
 
