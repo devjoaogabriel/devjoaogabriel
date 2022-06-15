@@ -41,7 +41,7 @@
 
 💼 Tools: <strong>Visual Studio Code, Figma, Git and GitHub.</strong>
 
-💌 See more about me or contact me...: ⤵️
+💌 See more about me or contact me: ⤵️
 
 <p align="left">
     <a href="https://www.instagram.com/o_joaozx/" alt="Instagram" target="_blank">
