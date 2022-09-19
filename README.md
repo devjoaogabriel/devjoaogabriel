@@ -1,33 +1,22 @@
-<!-- TEMA 1 -->
-<!--
-![Header](./github-header-imagev3.png)
-
-👋 Hello, my name is João Gabriel, I'm a **Front-End Developer**.
-
-🌱 I'm always studying **HTML**, **CSS** and **JavaScript**.
-
-✈️ I currently work with **IT Support**.
-
-⛹️ Developing a **large portfolio** to get to know me better...
-
-🎯 Focused on learning **TypeScript** and **NextJS**.
-
-🔭  See a little more about me...
-
-<p align="left">
-  <a href="https://www.instagram.com/o_joaozx/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/
-  </a>
-  
-  <a href="https://www.linkedin.com/in/joaogabriel0/" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
--->
-
-<!-- TEMA 2 BASEADO NO TEMPLATE DO IURICODE -->
+<!-- TEMA BASEADO NO TEMPLATE DO IURICODE -->
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+> Tradução em Português:
+
+👋 Olá, meu nome é João Gabriel, sou um **Desenvolvedor Front-End**.
+
+🌱 Estou sempre estudando **HTML**, **CSS** e **JavaScript**.
+
+✈️ Atualmente trabalho com **Suporte de TI**.
+
+⛹️ Desenvolvendo um **grande portfólio** para me conhecerem melhor...
+
+🎯 Focado em aprender **TypeScript** e **NextJS**.
+
+💼 Ferramentas: <strong>Visual Studio Code, Figma, Git and GitHub.</strong>
+
+> English translation:
 
 👋 Hello, my name is João Gabriel, I'm a **Front-End Developer**.
 
