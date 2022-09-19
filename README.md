@@ -2,7 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
+<!---
 > Tradução em Português:
+--->
 
 👋 Olá, meu nome é João Gabriel, sou um **Desenvolvedor Front-End**.
 
@@ -16,6 +18,9 @@
 
 💼 Ferramentas: <strong>Visual Studio Code, Figma, Git and GitHub.</strong>
 
+💌 Veja mais sobre mim ou entre em contato comigo: ⤵️
+
+<!---
 > English translation:
 
 👋 Hello, my name is João Gabriel, I'm a **Front-End Developer**.
@@ -31,6 +36,7 @@
 💼 Tools: <strong>Visual Studio Code, Figma, Git and GitHub.</strong>
 
 💌 See more about me or contact me: ⤵️
+--->
 
 <p align="left">
     <a href="https://www.instagram.com/o_joaozx/" alt="Instagram" target="_blank">
