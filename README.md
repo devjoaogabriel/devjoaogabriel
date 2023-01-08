@@ -10,7 +10,7 @@
 
 🌱 Estou sempre estudando **HTML**, **CSS** e **JavaScript**.
 
-✈️ Atualmente trabalho com **Suporte de TI**.
+✈️ Experiência na área de **Suporte/TI**.
 
 ⛹️ Desenvolvendo um **grande portfólio** para me conhecerem melhor...
 
