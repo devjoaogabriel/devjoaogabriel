@@ -4,9 +4,8 @@
 
 <!---
 > Tradução em Português:
---->
 
-👋 Olá, meu nome é João Gabriel, sou um **Desenvolvedor Front-End**.
+👋 Olá, meu nome é João Gabriel, sou **Desenvolvedor Front-End** e **UI Design**.
 
 🌱 Estou sempre estudando **HTML**, **CSS** e **JavaScript**.
 
@@ -20,10 +19,12 @@
 
 💌 Veja mais sobre mim ou entre em contato comigo: ⤵️
 
-<!---
+
 > English translation:
 
-👋 Hello, my name is João Gabriel, I'm a **Front-End Developer**.
+--->
+
+👋 Hello, my name is João Gabriel, I'm **Front-End Developer** and **UI Design**.
 
 🌱 I'm always studying **HTML**, **CSS** and **JavaScript**.
 
@@ -36,7 +37,7 @@
 💼 Tools: <strong>Visual Studio Code, Figma, Git and GitHub.</strong>
 
 💌 See more about me or contact me: ⤵️
---->
+
 
 <p align="left">
     <a href="https://www.instagram.com/o_joaozx/" alt="Instagram" target="_blank">
