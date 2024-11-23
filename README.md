@@ -28,7 +28,7 @@
 
 🌱 I'm always studying **HTML**, **CSS** and **JavaScript**.
 
-✈️ I currently work with **IT Support** at **University Anhembi Morumbi**.
+✈️ I currently work with **IT Support** at **Ânima Educação**.
 
 ⛹️ Developing a **large portfolio** to get to know me better...
 
